@@ -1,4 +1,4 @@
-# zos-config
+# ZOS Config
 
 Zero-OS Config provides global configuration definitions for all Zero-OS nodes. It specifies network parameters, feature flags, and operational settings that nodes fetch at startup. The repository acts as the single source of truth for grid-wide node behavior and capabilities.
 
